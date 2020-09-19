@@ -1,7 +1,7 @@
 ---
 title: "Cabbages"
-author: "Put your name here!"
-date: "put the date here"
+author: "Flora Soto"
+date: "Fall 2020"
 output:
   html_document:
     df_print: paged
@@ -24,7 +24,7 @@ veggy <- cabbages
 # Methods
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
-
+response variable vit c is numeric,  cultivation methods are categorical
 # Results
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
